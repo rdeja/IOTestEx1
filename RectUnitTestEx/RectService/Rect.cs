@@ -1,6 +1,6 @@
 ﻿using System;
 
-/// just a comment added
+/// just a comment added and modified
 namespace RectService
 {
     public class Rect

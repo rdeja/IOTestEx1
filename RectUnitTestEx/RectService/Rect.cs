@@ -1,7 +1,7 @@
 ﻿using System;
 
 /// just a comment added 
-// new comment
+// new commentss
 namespace RectService
 {
     public class Rect
